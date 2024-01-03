@@ -1,0 +1,1 @@
+# PHP-composition-vs-inheritance
